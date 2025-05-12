@@ -25,8 +25,11 @@ Facial Emotion Detection
 * Detects faces in an image using OpenCV.
 * Classifies emotions such as Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral using a CNN model.
 * Uses Gradio for a simple web interface, allowing you to upload images and detect emotions.
-  #EXAMPLE OUTPUT
+
+
+   #EXAMPLE OUTPUT
   ![OutputScreenshot](images/emo.png)
+  
 
 Speech Emotion Detection and Transcription
 
@@ -34,8 +37,12 @@ Speech Emotion Detection and Transcription
 * Extracts audio features such as MFCC (Mel-frequency cepstral coefficients) and pitch using `librosa`.
 * Classifies emotions based on extracted features using a simple Support Vector Machine (SVM) classifier trained on synthetic data.
 * Converts `.mp4` speech to `.wav` using the `moviepy` library, allowing for the recognition of emotions from audio files.
+
+  
   #EXAMPLE OUTPUT
   ![OutputScreenshot](images/audioOP.png)
+
+  
 Installation
 
 To install the required dependencies, run the following command:
