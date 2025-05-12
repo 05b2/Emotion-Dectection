@@ -1,8 +1,5 @@
 Emotion-Dectection
 This project is about Emotion Detection using FaceRecognition and SpeechRecognition.
-Here’s the revised `README.md` without emojis and in a more human-readable style:
-
----
 
 Emotion Detection System (Face & Speech)
 
